@@ -14,7 +14,7 @@
      Name: input is label 
      -->
 
-    <form action="welcome.php" method="post">
+    <form action="connect_DB.php" method="get">
         Name: <input name="username" type="text"><br>
         E-mail: <input name="email" type="text"><br>
         <input name="submit" type="submit">
